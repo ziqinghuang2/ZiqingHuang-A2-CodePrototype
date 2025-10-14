@@ -12,4 +12,8 @@ Three independent piano voices (low, mid, high)
 Looped melodic patterns and synchronized playback  
 Python-style TunePad syntax (`play_note()`, `rest()`, loops)  
   
-# Instruction
+# structure
+Step 1 — Register a TunePad Account  
+Step 2 — Create Three Piano Tracks  
+Step 3 — Write the Code  
+Step 4 — Export Json file 
