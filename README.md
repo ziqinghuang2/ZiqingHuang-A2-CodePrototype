@@ -9,6 +9,7 @@ This repository presents a coded, three-piano arrangement of *â€œAlways With Meâ
 
 # Features  
 Three independent piano voices (low, mid, high)  
+Four instrument types: Normal Piano, Bell, Vibraphone, and Big Piano
 Looped melodic patterns and synchronized playback  
 Python-style TunePad syntax (`play_note()`, `rest()`, loops)  
   
